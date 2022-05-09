@@ -1,0 +1,8 @@
+C:\Users\A00613\OneDrive\水球軟體學院\UML\作業\Code\C1M1S5\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\A00613\OneDrive\水球軟體學院\UML\作業\Code\C1M1S5\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\A00613\OneDrive\水球軟體學院\UML\作業\Code\C1M1S5\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\A00613\OneDrive\水球軟體學院\UML\作業\Code\C1M1S5\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\A00613\OneDrive\水球軟體學院\UML\作業\Code\C1M1S5\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\A00613\OneDrive\水球軟體學院\UML\作業\Code\C1M1S5\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\A00613\OneDrive\水球軟體學院\UML\作業\Code\C1M1S5\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\A00613\OneDrive\水球軟體學院\UML\作業\Code\C1M1S5\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
