@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Distance-Based.cs" />
+    <Compile Include="Individual.cs" />
+    <Compile Include="MatchingSystem.cs" />
+    <Compile Include="MatchSrategy.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
