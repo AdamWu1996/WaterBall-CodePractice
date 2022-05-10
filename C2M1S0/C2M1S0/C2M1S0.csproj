@@ -43,7 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Distance-Based%28Reverse%29.cs" />
     <Compile Include="Distance-Based.cs" />
+    <Compile Include="Habit-Based%28Reverse%29.cs" />
+    <Compile Include="Habit-Based.cs" />
     <Compile Include="Individual.cs" />
     <Compile Include="MatchingSystem.cs" />
     <Compile Include="MatchSrategy.cs" />

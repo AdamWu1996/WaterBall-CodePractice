@@ -8,12 +8,27 @@ namespace C2M1S0
 {
     public class Individual
     {
+        public enum Gender
+        {
+            MALE, FEMALE
+        }
+
         private int id;
         private Gender gender;
         private int age;
         private string intro;
         private string habits;
         private float[] coord;
+
+        public Individual(int id, Gender gender, int age, string intro, string habits, float[] coord)
+        {
+            this.id=id;
+            this.gender=gender;
+            this.Age=age;
+            this.Intro=intro;
+            this.habits=habits;
+            this.coord=coord;
+        }
 
         public int Id { get => id; set => id = value; }
         public Gender Gender1 { get => gender; set => gender = value; }
@@ -22,8 +37,9 @@ namespace C2M1S0
             {
                 if (value < 18)
                 {
-                    Console.WriteLine("你未成年歐！");
-                    return;
+                    Console.WriteLine($"{Id}你未成年歐！888");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
                 age = value;
             } 
@@ -33,8 +49,9 @@ namespace C2M1S0
             {
                 if (value.Length > 200)
                 {
-                    Console.WriteLine("字數太長惹！");
-                    return;
+                    Console.WriteLine($"{Id}字數太長惹！888");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
                 intro = value;
             } 
@@ -42,9 +59,5 @@ namespace C2M1S0
         public string Habits { get => habits; set => habits = value; }
         public float[] Coord { get => coord; set => coord = value; }
 
-        public enum Gender
-        {
-            MALE, FEMALE
-        }
     }
 }

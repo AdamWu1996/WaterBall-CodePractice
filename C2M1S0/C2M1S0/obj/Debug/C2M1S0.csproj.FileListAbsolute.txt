@@ -6,3 +6,11 @@ C:\Users\wubomo\OneDrive\水球軟體學院\WaterBall-CodePractice\C2M1S0\C2M1S0
 C:\Users\wubomo\OneDrive\水球軟體學院\WaterBall-CodePractice\C2M1S0\C2M1S0\obj\Debug\C2M1S0.csproj.CoreCompileInputs.cache
 C:\Users\wubomo\OneDrive\水球軟體學院\WaterBall-CodePractice\C2M1S0\C2M1S0\obj\Debug\C2M1S0.exe
 C:\Users\wubomo\OneDrive\水球軟體學院\WaterBall-CodePractice\C2M1S0\C2M1S0\obj\Debug\C2M1S0.pdb
+C:\Users\A00613\OneDrive\水球軟體學院\WaterBall-CodePractice\C2M1S0\C2M1S0\bin\Debug\C2M1S0.exe.config
+C:\Users\A00613\OneDrive\水球軟體學院\WaterBall-CodePractice\C2M1S0\C2M1S0\bin\Debug\C2M1S0.exe
+C:\Users\A00613\OneDrive\水球軟體學院\WaterBall-CodePractice\C2M1S0\C2M1S0\bin\Debug\C2M1S0.pdb
+C:\Users\A00613\OneDrive\水球軟體學院\WaterBall-CodePractice\C2M1S0\C2M1S0\obj\Debug\C2M1S0.csproj.AssemblyReference.cache
+C:\Users\A00613\OneDrive\水球軟體學院\WaterBall-CodePractice\C2M1S0\C2M1S0\obj\Debug\C2M1S0.csproj.SuggestedBindingRedirects.cache
+C:\Users\A00613\OneDrive\水球軟體學院\WaterBall-CodePractice\C2M1S0\C2M1S0\obj\Debug\C2M1S0.csproj.CoreCompileInputs.cache
+C:\Users\A00613\OneDrive\水球軟體學院\WaterBall-CodePractice\C2M1S0\C2M1S0\obj\Debug\C2M1S0.exe
+C:\Users\A00613\OneDrive\水球軟體學院\WaterBall-CodePractice\C2M1S0\C2M1S0\obj\Debug\C2M1S0.pdb
